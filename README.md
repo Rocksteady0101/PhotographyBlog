@@ -1,2 +1,0 @@
-# PhotographyBlog
-Bootcamp 
